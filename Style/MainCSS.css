@@ -79,7 +79,7 @@ html, body {
 	display: flex;
 	font-family: 'LCD';
 	justify-content: end;
-	margin: 10px;
+	margin: 120px;
 	position: absolute;
 	height: unset;
 	top: 210px;
